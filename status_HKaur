@@ -1,0 +1,25 @@
+# Status Report
+
+#### Your name
+Harmehak Kaur
+
+#### Your section leader's name
+Solo Project
+
+#### Project title
+Object Tracking with Python (still working on a cooler sounding title)
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have currently established a framework into which I will add more detailed code. I have also researched which Python functional toolboxes I will need and have installed them. So far, I have included Pytorch, openCV, and the YOLOv5 algorithm. This algorithm uses a single neural network to simultaneously predict object bounding boxes and class probabilities. It divides the input image into a cell grid and indicates each cell's bounding box. This allows the algorithm to detect objects in the photo at multiple scales and locations. However, I have trouble using the YOLOv5 algorithm correctly, as I always get installation errors when I try to run any code.
+
+#### What have you not done for your project yet?
+I will attempt to get the YOLOv5 algorithm working; if not, I must manually design a learning algorithm to allow me to classify objects with boundary boxing. Lastly, I must write the equations to conduct the required kinematics and plot the corresponding plots.
+
+#### What problems, if any, have you encountered?
+
+I have mentioned most of the problems in the previous questions. Still, my main struggle is deciding between integrating a previously written learning code and implementing it into my code or writing a new learning algorithm manually. I still want to research if there is another code similar to YOLOv5 that I can use before I start manually trying.
