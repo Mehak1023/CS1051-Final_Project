@@ -10,4 +10,6 @@ I chose a car commercial with varying speeds and locations in the frame, which m
 
 Code and video are uploaded in GITHUB
 
-Link to video
+Link to video: https://clipchamp.com/watch/b6HO7X1h18h
+
+
